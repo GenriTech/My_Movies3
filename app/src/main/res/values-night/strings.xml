@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Movies 3</string>
+    <string name="small_poster">Постер к фильму</string>
+    <string name="most_popular_switch_TV">Самые популярные</string>
+    <string name="top_rated_switch_TV">Наиболее рейтинговые</string>
+    <string name="delete_from_favourites">Deleted from favourites</string>
+    <string name="add_to_favorites">Movie is add to favourites</string>
+    <string name="item_menu_main">Main</string>
+    <string name="item_menu_favourite">Favourite</string>
+    <string name="trailer_start_player">Start Player</string>
+</resources>

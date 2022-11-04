@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.genriking.mymovies3.R;
-import com.genriking.mymovies3.data.Review;
+import com.genriking.mymovies3.pojo.Review;
 
 import java.util.ArrayList;
 

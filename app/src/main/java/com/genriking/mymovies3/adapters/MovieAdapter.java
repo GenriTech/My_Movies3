@@ -1,6 +1,5 @@
 package com.genriking.mymovies3.adapters;
 
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.genriking.mymovies3.R;
-import com.genriking.mymovies3.data.Movie;
+import com.genriking.mymovies3.pojo.Movie;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

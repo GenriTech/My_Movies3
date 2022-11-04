@@ -15,9 +15,9 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
-import com.genriking.mymovies3.data.FavouriteMovie;
+import com.genriking.mymovies3.pojo.FavouriteMovie;
 import com.genriking.mymovies3.data.MainViewModel;
-import com.genriking.mymovies3.data.Movie;
+import com.genriking.mymovies3.pojo.Movie;
 import com.genriking.mymovies3.adapters.MovieAdapter;
 
 import java.util.ArrayList;

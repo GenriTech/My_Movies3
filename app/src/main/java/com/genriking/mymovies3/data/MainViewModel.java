@@ -7,6 +7,9 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
+import com.genriking.mymovies3.pojo.FavouriteMovie;
+import com.genriking.mymovies3.pojo.Movie;
+
 import java.util.List;
 import java.util.concurrent.ExecutionException;
 

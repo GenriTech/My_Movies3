@@ -1,10 +1,8 @@
 package com.genriking.mymovies3.utils;
 
-import android.util.Log;
-
-import com.genriking.mymovies3.data.Movie;
-import com.genriking.mymovies3.data.Review;
-import com.genriking.mymovies3.data.Trailer;
+import com.genriking.mymovies3.pojo.Movie;
+import com.genriking.mymovies3.pojo.Review;
+import com.genriking.mymovies3.pojo.Trailer;
 
 import org.json.JSONArray;
 import org.json.JSONException;

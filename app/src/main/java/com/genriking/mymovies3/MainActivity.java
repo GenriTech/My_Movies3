@@ -14,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -26,7 +25,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.genriking.mymovies3.data.MainViewModel;
-import com.genriking.mymovies3.data.Movie;
+import com.genriking.mymovies3.pojo.Movie;
 import com.genriking.mymovies3.adapters.MovieAdapter;
 import com.genriking.mymovies3.utils.JSONUtils;
 import com.genriking.mymovies3.utils.NetworkUtils;

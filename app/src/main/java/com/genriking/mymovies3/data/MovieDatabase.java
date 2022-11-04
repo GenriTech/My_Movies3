@@ -6,6 +6,9 @@ import androidx.room.Database;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
+import com.genriking.mymovies3.pojo.FavouriteMovie;
+import com.genriking.mymovies3.pojo.Movie;
+
 @Database(entities =  {Movie.class, FavouriteMovie.class}, version = 3, exportSchema = false)
 public abstract class MovieDatabase extends RoomDatabase {
 

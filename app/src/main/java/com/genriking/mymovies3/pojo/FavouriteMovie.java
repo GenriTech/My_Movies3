@@ -1,7 +1,9 @@
-package com.genriking.mymovies3.data;
+package com.genriking.mymovies3.pojo;
 
 import androidx.room.Entity;
 import androidx.room.Ignore;
+
+import com.genriking.mymovies3.pojo.Movie;
 
 @Entity(tableName = "favourite_movies")
 public class FavouriteMovie extends Movie {

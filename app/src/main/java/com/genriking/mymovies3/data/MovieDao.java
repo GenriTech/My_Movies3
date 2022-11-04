@@ -6,6 +6,9 @@ import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
 
+import com.genriking.mymovies3.pojo.FavouriteMovie;
+import com.genriking.mymovies3.pojo.Movie;
+
 import java.util.List;
 
 @Dao

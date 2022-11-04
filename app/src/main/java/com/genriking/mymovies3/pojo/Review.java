@@ -1,4 +1,4 @@
-package com.genriking.mymovies3.data;
+package com.genriking.mymovies3.pojo;
 
 public class Review {
     private String author;
